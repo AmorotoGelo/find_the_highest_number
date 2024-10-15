@@ -5,9 +5,9 @@ num3 = float(input("Please input a number: "))
 num4 = float(input("Please input a number: "))
 num5 = float(input("Please input a number: "))
 #Compare num1 to other variables
-
-#If num1 is greater than other variables, print num1
-
+if num1 > num2 and num1 > num3 and num1 > num4 and num1 > num5:
+    #If num1 is greater than other variables, print num1
+    print("The highest number is:", num1)
 #Compare num2 to other variables
 
 #If num2 is greater than other variables, print num2
