@@ -1,5 +1,9 @@
 #Define variables by asking user to input 5 numbers
-
+num1 = float(input("Please input a number: "))
+num2 = float(input("Please input a number: "))
+num3 = float(input("Please input a number: "))
+num4 = float(input("Please input a number: "))
+num5 = float(input("Please input a number: "))
 #Compare num1 to other variables
 
 #If num1 is greater than other variables, print num1
