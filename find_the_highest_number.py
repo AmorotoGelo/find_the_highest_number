@@ -12,11 +12,10 @@ if num1 > num2 and num1 > num3 and num1 > num4 and num1 > num5:
 if num2 > num1 and num2 > num3 and num2 > num4 and num2 > num5:
     #If num2 is greater than other variables, print num2
     print("The highest number is:", num2)
-
 #Compare num3 to other variables
-
-#If num3 is greater than other variables, print num3
-
+if num3 > num1 and num3 > num2 and num3 > num4 and num3 > num5:
+    #If num3 is greater than other variables, print num3
+    print("The highest number is:", num3)
 #Compare num4 to other variables
 
 #If num4 is greater than other variables, print num4
