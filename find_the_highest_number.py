@@ -17,8 +17,9 @@ if num3 > num1 and num3 > num2 and num3 > num4 and num3 > num5:
     #If num3 is greater than other variables, print num3
     print("The highest number is:", num3)
 #Compare num4 to other variables
-
-#If num4 is greater than other variables, print num4
+if num4 > num1 and num4 > num2 and num4 > num3 and num4 > num5:
+    #If num4 is greater than other variables, print num4
+    print("The highest number is:", num4)
 
 #Compare num5 to other variables
 
